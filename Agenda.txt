@@ -5,4 +5,17 @@
 	b) Setup.py
 	c) requirements.txt
 2- Src Folder and Package Build
-	
+
+3- Set Project Structure:
+	* Components that contain all modules:
+	 a) Data Ingestion (Read dataset)
+	 b) Data Transformation
+	 c) Model Trainer
+	  ==> At bigger projects, more modules can be added such as model evaluation, data validation
+	 * Pipeline (Trainin/prediction):
+	 a) Training Pipeline
+	 b) Prediction Pipeline
+	 * Add Utils (modules that are used in the entire application), exception handeling, logger
+4- Project Problem 
+5- 	EDA/ Feature Engineering/ Model Training
+6- Data Ingestion 
