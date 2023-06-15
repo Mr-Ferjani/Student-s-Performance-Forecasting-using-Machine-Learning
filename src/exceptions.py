@@ -1,5 +1,5 @@
 import sys
-import logger
+import src.logger as logger
 
 def error_message_detail(error,error_detail:sys):
     #extract the file, line number of where the exception occured

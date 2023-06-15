@@ -16,6 +16,8 @@
 	 a) Training Pipeline
 	 b) Prediction Pipeline
 	 * Add Utils (modules that are used in the entire application), exception handeling, logger
-4- Project Problem 
-5- 	EDA/ Feature Engineering/ Model Training
-6- Data Ingestion 
+
+4- Project Problem / EDA/ Feature Engineering/ Model Training
+5- Data Ingestion 
+
+* From Notebook -> Modular Programming -> CI/CD Pipeline
