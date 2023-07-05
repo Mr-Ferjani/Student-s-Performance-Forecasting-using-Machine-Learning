@@ -19,5 +19,7 @@
 
 4- Project Problem / EDA/ Feature Engineering/ Model Training
 5- Data Ingestion 
+6- Data Transformation
+7- Model Training and Validation
 
 * From Notebook -> Modular Programming -> CI/CD Pipeline
