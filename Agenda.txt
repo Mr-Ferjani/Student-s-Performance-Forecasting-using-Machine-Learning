@@ -5,7 +5,6 @@
 	b) Setup.py
 	c) requirements.txt
 2- Src Folder and Package Build
-
 3- Set Project Structure:
 	* Components that contain all modules:
 	 a) Data Ingestion (Read dataset)
@@ -21,5 +20,6 @@
 5- Data Ingestion 
 6- Data Transformation
 7- Model Training and Validation
+8- Prediction Pipeline Using Flask Web App
 
 * From Notebook -> Modular Programming -> CI/CD Pipeline
